@@ -1,13 +1,14 @@
+
 GNU  GENERAL PUBLIC LICENSE
     Version 2, Junio 1991
 
-Copyright (C) 1989, 1991 
+Copyright (C) 2009 - 2020
 675 Mass Ave, Cambridge, MA 02139, EEUU
 
+          Github
+===============================
 Se permiten la copia y distribución de libros, software, literatura o otro contenido generado por el usuario
-
-------------------------------------------
-
+===============================
 GNU GENERAL PUBLIC LICENSE TERMINOS Y CONDICIONES PARA LA COPIA Y DISTRIBUCIÓN DEL CONTENIDO 
 
 Está licencia GNU  GENERAL PUBLIC garantiza al usuario distribuir,copiar,modificar y utilizar su obra para la distribución,explotación y comercialización libre de censura para uso educativo.ya que el usuario reconoce al creador de la obra original como el único creador.podra distribuir software y cualquier contenido libremente generado por el usuario.podrá comercializarlo la veces que quiera.ya que el usuario está bajo este contrato ,que no se podrá violar nunca.la ISP como los hosting no podrán censurar ningún contenido que esté bajo esta licencia GNU.ya que deberán respetar los derechos de los usuarios que generaron este contenido bajo esta licencia de distribución gratuita libre de censura en el internet .
@@ -18,3 +19,8 @@ Las empresas de servicios del INTERNET No podrá difundír ningún contenido del
 
 
 FIN DE TERMINOS Y CONDICIONES
+
+
+
+
+
